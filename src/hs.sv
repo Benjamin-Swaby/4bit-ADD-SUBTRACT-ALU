@@ -4,7 +4,7 @@ module half_subtractor_1 (
 
     output wire q,
     output wire bout
-)
+);
 
 
 assign q = a ^ b;

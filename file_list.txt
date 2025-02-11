@@ -1,0 +1,6 @@
+src/ALU.sv
+src/fa.sv
+src/fs.sv
+src/ha.sv
+src/hs.sv
+src/mux.sv
