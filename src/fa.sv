@@ -20,7 +20,7 @@ half_adder_1 ha1 (
 half_adder_1 ha2 (
     .a(sum1),
     .b(cin),
-    .q(sum),
+    .q(q),
     .cout(carry2)
 );
 
